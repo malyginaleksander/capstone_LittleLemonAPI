@@ -1,1 +1,2 @@
-# capstone_LittleLemonAPI
+/api/menu_items/
+/api/bookings/
